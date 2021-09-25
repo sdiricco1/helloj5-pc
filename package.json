@@ -1,0 +1,22 @@
+{
+  "name": "helloj5-pc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdiricco1/helloj5-pc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdiricco1/helloj5-pc/issues"
+  },
+  "homepage": "https://github.com/sdiricco1/helloj5-pc#readme",
+  "dependencies": {
+    "johnny-five": "^2.1.0"
+  }
+}
